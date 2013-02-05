@@ -366,7 +366,6 @@ class mediamosa_profile {
     mediamosa_profile::mountpoint_mkdir('media/ticket');
     mediamosa_profile::mountpoint_mkdir('media/ticket/still');
     mediamosa_profile::mountpoint_mkdir('media/ticket/download');
-    mediamosa_profile::mountpoint_mkdir('media/ticket/play');
 
     // New for generated object code (like .asx files).
     mediamosa_profile::mountpoint_mkdir('media/object');
